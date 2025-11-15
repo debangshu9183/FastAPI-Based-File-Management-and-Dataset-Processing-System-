@@ -36,6 +36,8 @@ An in-memory caching backend used for temporary merged data
 
 This architecture models industry-standard data engineering workflows that separate metadata, storage, and processing layers.
 
+<img width="643" height="368" alt="Image" src="https://github.com/user-attachments/assets/3bb455a7-f5eb-4dad-b45d-f8024b150039" />
+
 Use Cases
 
 Data engineering pipelines involving repeated merging of datasets
